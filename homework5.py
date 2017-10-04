@@ -9,7 +9,7 @@ for number in filename:
 
 
 total = [int(i) for i in list1]
-final = sum(total)
-print (final)
+total_final = sum(total)
+print (total_final)
 
 
